@@ -7,7 +7,7 @@
       <p><b>邮箱：357904753@qq.com</b></p>
     </td>
     <td width="25%">
-      ![cat](https://user-images.githubusercontent.com/71313432/118120549-a67c8c00-b422-11eb-9918-01970513a0b4.gif)
+      <img src="/cat.gif" width="100%">
     </td>
   </tr>
 </table>
